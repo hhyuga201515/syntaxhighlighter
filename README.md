@@ -130,11 +130,11 @@ highlight: [1, 3, 5]
 ```html
 auto-links: false
 ```
-と書くと、URLにハイパーリンクが設定されなくなります（デフォルトではハイパーリンクが設定される）。
-ハイパーリンク解除前
+と書くと、URLにハイパーリンクが設定されなくなります（デフォルトではハイパーリンクが設定される）。  
+ハイパーリンク解除前  
 ![auto-links](screenshots/auto-links.png)
 
-ハイパーリンク解除後
+ハイパーリンク解除後  
 ![auto-links2](screenshots/auto-links2.png)
 
 ## 行番号を途中から開始する
